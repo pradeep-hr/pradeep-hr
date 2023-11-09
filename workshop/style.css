@@ -1,0 +1,121 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+nav {
+    background-color: rgb(74, 134, 236);
+    padding: 20px;
+}
+
+nav div {
+    display: inline-block;
+    width: 49%;
+}
+
+nav .nav2 a {
+    display: inline-block;
+    margin-left: 50px;
+    color: black;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+nav h1 {
+    margin-left: 20px;
+    color: blue;
+    display: inline-block;
+}
+
+.main img {
+    border-radius: 50%;
+    margin-right: auto;
+
+}
+
+.main {
+    width: 80%;
+    margin: auto;
+    padding: 100px 0 100px 0;
+}
+
+.main div {
+    width: 49%;
+    display: inline-block;
+}
+
+.main1 {
+    text-align: center
+}
+
+.main button {
+    background-color: chocolate;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.main h1,
+.main button {
+    margin-top: 20px;
+}
+
+
+.sh1{
+    padding-left: 40px;
+    color: blue;
+}
+.main3 {
+    width: 80%;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.main4 h1 {
+    font-family: 'Kay Pho Du', serif;
+}
+
+.main5 h1 {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Kay Pho Du', serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.main6 h2 {
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.main6 p {
+    margin-left: 365px;
+}
+
+.main7 h2 {
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.main7 p {
+    margin-left: 365px;
+}
+
+.main8 h1 {
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Kay Pho Du', serif;
+    font-family: 'Roboto Slab', serif;
+}
+
+.main9 p {
+    margin-left: 200px;
+    margin-top: 15px;
+}
+.scard{
+    display: inline-block;
+    width: 8%;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(242, 213, 169);
+    border-radius: 6px;
+    margin-right: 10px;
+}
